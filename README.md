@@ -87,36 +87,7 @@ It involves data cleaning, SQL-based analysis, and interactive visualization usi
 * Discounts effectively increase conversions without significantly reducing average spend.
 * Loyal customers contribute the majority of revenue.
 
----
 
-## ▶️ How to Run
-
-1. Clone this repository:
-
-   ```bash
-   git clone https://github.com/muskan-choudhary101/customer-behavior-analytics.git
-   cd customer-behavior-analytics
-   ```
-
-2. Install dependencies:
-
-   ```bash
-   pip install -r requirements.txt
-   ```
-
-3. Run the Jupyter notebook to load and clean data.
-
-4. Execute SQL queries:
-
-   ```sql
-   \i customer_behavior_sql_queries.sql
-   ```
-
-5. Open the Power BI dashboard file:
-
-   ```
-   customer behavior dashboard (1).pbix
-   ```
 
 
 
